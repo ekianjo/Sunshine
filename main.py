@@ -3,7 +3,7 @@
 #interface should be super clean and professional looking.
 #controls, simple and keyboard based. 
 
-import json
+import json, urllib
 
 def getdata(city):
   unit="metric"
